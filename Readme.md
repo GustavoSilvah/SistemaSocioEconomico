@@ -1,8 +1,8 @@
 <h1> <b><i>Sistema Perfil Socioeconomico</b></em> </h1>
 
-Sistema Sócio Econômico / Trabalho da disciplina de Sistemas de Informação / Fatec - Franca
+Sistema Sócio Econômico / Trabalho da disciplina de Sistemas da Informação / Fatec - Franca
 
-1- Baixe o arquivo "Perfil Socioeconomico - Sistema", que é onde se encontra o sistem.
+1- Baixe o arquivo "Perfil Socioeconomico - Sistema", que é onde se encontra o sistema.
 
 2- Caso você não tenha uma base de dados, baixe os arquivos "Dados coletados".
 
